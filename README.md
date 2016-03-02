@@ -6,6 +6,12 @@ Overview
 
 The Passenger module allows easy configuration and management of Phusion Passenger.      
 
+Fork
+----
+
+This repository is a fork from puppetlabs/puppetlabs-passenger, created to
+merge a stagnating pull request for Puppet 4.x support.
+
 Module Description
 -------------------
 
