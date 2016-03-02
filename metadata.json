@@ -1,12 +1,11 @@
 {
-  "name": "puppetlabs-passenger",
+  "name": "marcel-passenger",
   "version": "0.5.0",
-  "author": "puppetlabs",
+  "author": "Marcel M. Cary",
   "summary": "Configures and manages Passenger.",
   "license": "Apache-2.0",
-  "source": "https://github.com/puppetlabs/puppetlabs-passenger",
-  "project_page": "https://github.com/puppetlabs/puppetlabs-passenger",
-  "issues_url": "https://tickets.puppetlabs.com/browse/MODULES",
+  "source": "https://github.com/mcary/puppet-passenger",
+  "project_page": "https://github.com/mcary/puppet-passenger",
   "operatingsystem_support": [
     {
       "operatingsystem": "RedHat",
